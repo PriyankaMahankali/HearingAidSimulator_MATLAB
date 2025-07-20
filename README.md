@@ -24,13 +24,6 @@ This program captures audio live from the microphone, enhances the signal in rea
 - Real-time audio recording and playback
 - Adaptive denoising and enhancement
 - Spectrogram visualization
-
-### 📄 File:
-`real_time_voice_enhancer.m`
-
-### 📷 Screenshot:
-> Spectrograms and plots are shown in real-time for original and processed signals.
-
 ---
 
 ## 🎧 2. Offline WAV File Processing (For Pre-Recorded Audio)
