@@ -56,6 +56,21 @@ This project requires:
 
 ---
 
+## 🖼️ Screenshots
+![WhatsApp Image 2025-09-01 at 9 19 22 PM](https://github.com/user-attachments/assets/565b2c08-9e3f-48d6-9a65-bbb1ace61968)
+
+![WhatsApp Image 2025-09-01 at 9 19 22 PM (1)](https://github.com/user-attachments/assets/7476c88f-de45-4fa8-837b-57e0808c8bd9)
+
+![WhatsApp Image 2025-09-01 at 9 19 22 PM (2)](https://github.com/user-attachments/assets/d912331a-8043-4854-a7b5-34eb78b312a5)
+
+![WhatsApp Image 2025-09-01 at 9 19 22 PM (3)](https://github.com/user-attachments/assets/98c4bb04-76ee-4479-8636-b8fa1c0907d9)
+
+![WhatsApp Image 2025-09-01 at 9 19 22 PM (4)](https://github.com/user-attachments/assets/8f586e80-4da5-4fb2-b364-b2070b172c4a)
+
+![WhatsApp Image 2025-09-01 at 9 19 23 PM](https://github.com/user-attachments/assets/eb8cbc18-ac43-4c9c-ab01-a1cf39294bff)
+
+---
+
 ## 🚀 Getting Started
 
 ### For Real-Time Voice Enhancement:
